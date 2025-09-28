@@ -1,5 +1,4 @@
-## Hi there 👋
-- CPDD
+## CPDD 👋
 <!--
 **ink1chen/ink1chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
