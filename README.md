@@ -1,1 +1,1 @@
-Try to Be Quiet,Try to Be Better.
+TRY TO BE QUIET, TRY TO BE BETTER.
